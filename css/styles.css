@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,700;1,400&display=swap');
+
+body {
+    font-family: Roboto, sans-serif;
+
+}
+
+
+    
+
+.resaltar {
+    color: rgb(43, 31, 204);
+    font-weight: bold;
+}
+
+/*@ Trabajo operadores */
+
+h1{
+    text-align:center;
+}
+
+table{
+    background-color:rgb(99, 135, 212);
+    padding:5px;
+    border:#666 2px solid;
+    border-radius: 5px;
+}
+
+.no_validado{
+    font-size:18px;
+    color:#F00;
+    font-weight:bold;
+}
+
+.validado{
+    font-size:18px;
+    color:#0C3;
+    font-weight:bold;
+}
